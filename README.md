@@ -42,19 +42,16 @@ A compact industrial-style PLC board designed in KiCad, built around an **STM32F
 
 ## Board gallery
 
-### 3D render: front view
-![Front view](Screenshot%202026-10-16%20115355.png)
-
 ### 3D render: top angle
 ![Top angle](Screenshot%202026-10-16%20115355.png)
 
 ### 3D render: side view
-![Side view](images/3d-side-view.png)
+![Side view](Screenshot%202026-10-16%20115337.png)
 
 ### 3D render: back side
 Back side showing input labels (X1 to X8), copper routing and relay output pads.
 
-![Back side](Screenshot%202026-10-16%20115337.png)
+![Back side](Screenshot%202026-10-16%20115450.png)
 
 ### PCB layout (KiCad PCB editor)
 Red traces are the top copper layer and blue traces are the bottom copper layer. The logic section (power, STM32, inputs, communication) is at the top, and the relay and output section is at the bottom.
